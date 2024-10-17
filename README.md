@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Use `fetch()` to programmatically make a web request
+- Use `fetch(https://anapioficeandfire.com/api/books)` to programmatically make a web request
 
 ## Introduction
 
